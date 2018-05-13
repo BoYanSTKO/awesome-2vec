@@ -21,6 +21,14 @@ Python:
 
 <hr>
 
+**diff2vec**
+
+Paper: https://link.springer.com/chapter/10.1007/978-3-319-73198-8_9
+
+Python: https://github.com/benedekrozemberczki/diff2vec
+
+<hr>
+
 **doc2vec**
 
 Paper: https://cs.stanford.edu/~quocle/paragraph_vector.pdf
@@ -193,3 +201,43 @@ Code: https://github.com/orenmel/context2vec
 Paper: http://www.aclweb.org/anthology/D17-1023
 
 Code: https://github.com/zhezhaoa/ngram2vec
+
+<hr>
+
+**app2vec**
+
+Paper: http://paul.rutgers.edu/~qma/research/ma_app2vec.pdf
+
+<hr>
+
+**movie2vec**
+
+Code: https://github.com/lujiaying/MovieTaster-Open
+
+<hr>
+
+**pin2vec**
+
+Paper: https://arxiv.org/pdf/1702.07969
+
+<hr>
+
+**wordnet2vec**
+
+Paper: https://arxiv.org/abs/1606.03335
+
+<hr>
+
+**metapath2vec**
+
+Paper: https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf
+
+Page: https://ericdongyx.github.io/metapath2vec/m2v.html
+
+<hr>
+
+**rdf2vec**
+
+Paper: https://ub-madoc.bib.uni-mannheim.de/41307/1/Ristoski_RDF2Vec.pdf
+
+Code: http://data.dws.informatik.uni-mannheim.de/rdf2vec/
